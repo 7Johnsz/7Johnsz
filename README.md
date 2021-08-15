@@ -10,7 +10,7 @@
   <img align="right" alt="JohnszGatinhoFofo" height="130" src="https://media.discordapp.net/attachments/657332439101997108/875153431051010048/giphy.gif?width=355&height=266">
 </div>
  
- ##
+ ## Também sou Designer
  
 <div>
   <img height="20em" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
