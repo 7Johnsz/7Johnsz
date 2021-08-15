@@ -13,6 +13,6 @@
  ## Pc info: 💻
  
 <div>
-  <img height="20em" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+  <img height="20em" src="https://img.shields.io/badge/NVIDIA-GTX550TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img height="20em" src="https://aleen42.github.io/badges/src/after_effects.svg"/>
 </div> 
