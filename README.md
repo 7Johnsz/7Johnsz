@@ -1,4 +1,4 @@
-## Oioi, eu sou o Johnsz! 🤠
+## Oioi, eu sou o Johnsz!😴
  <div>
   <a href="https://github.com/7Johnsz">
   <img height="132em" src="https://github-readme-stats.vercel.app/api?username=7Johnsz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
