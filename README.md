@@ -9,7 +9,9 @@
   <img align="center" alt="JohnszHTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="JohnszGatinhoFofo" height="130" src="https://media.discordapp.net/attachments/657332439101997108/875153431051010048/giphy.gif?width=355&height=266">
 </div>
+ 
  ## Também sou Designer
+ 
 <div>
   <img height="20em" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
   <img height="20em" src="https://aleen42.github.io/badges/src/after_effects.svg"/>
