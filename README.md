@@ -10,7 +10,7 @@
   <img align="right" alt="JohnszGatinhoFofo" height="130" src="https://media.discordapp.net/attachments/657332439101997108/875153431051010048/giphy.gif?width=355&height=266">
 </div>
  
- ## PC INFO: 💻
+ ##
  
 <div>
   <img height="20em" src="https://img.shields.io/badge/NVIDIA-GTX550TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
