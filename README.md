@@ -10,9 +10,9 @@
   <img align="right" alt="JohnszGatinhoFofo" height="130" src="https://media.discordapp.net/attachments/657332439101997108/875153431051010048/giphy.gif?width=355&height=266">
 </div>
  
- ## Pc info: 💻
+ ## PC INFO: 💻
  
 <div>
   <img height="20em" src="https://img.shields.io/badge/NVIDIA-GTX550TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img height="20em" src="https://aleen42.github.io/badges/src/after_effects.svg"/>
+  <img height="20em" src="https://img.shields.io/badge/Intel-Core_i7_2th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div> 
