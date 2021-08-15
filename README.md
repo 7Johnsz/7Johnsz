@@ -8,7 +8,7 @@
   <img align="center" alt="JohnszCSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JohnszHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JohnszPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="JohnszGatinhoFofo" height="100" src="https://media.discordapp.net/attachments/657332439101997108/875153431051010048/giphy.gif?width=355&height=266">
+  <img align="right" alt="JohnszGatinhoFofo" height="130" src="https://media.discordapp.net/attachments/657332439101997108/875153431051010048/giphy.gif?width=355&height=266">
 </div>
   
   ##
