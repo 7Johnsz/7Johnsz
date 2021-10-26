@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Meu+nome+é+Johnsz!;Bem-vindo+ao+meu+perfil!;&center=true&size=27">
 </div>
 <div>
-  <h1>😴 'Redes sociais': </h1>
+  <div align="center">
+    <h1>😴 'Redes sociais': </h1>
+  </div>
   <div align="center">
     <a href="https://www.instagram.com/teujohnsz/">
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
