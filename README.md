@@ -3,7 +3,7 @@
 </div>
 <div>
   <div align="center">
-    <h1>😴 'Redes sociais': </h1>
+    <h3>😴 'Redes sociais': </h3>
   </div>
   <div align="center">
     <a href="https://www.instagram.com/teujohnsz/">
@@ -16,7 +16,7 @@
 </div>
 <div>
   <div align="center">
-    <h1>💻 'Conhecimentos':  </h1>
+    <h3>💻 'Conhecimentos':  </h3>
   </div>
   <div align="center">
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -31,7 +31,7 @@
 </div>
 <div>
   <div align="center">
-    <h1>🎇 'GitHub Stats': </h1>
+    <h3>🎇 'GitHub Stats': </h3>
   </div>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=7Johnsz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="165"/>
