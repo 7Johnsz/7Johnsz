@@ -15,7 +15,9 @@
   </div>
 </div>
 <div>
-  <h1>💻 'Conhecimentos': </h1>
+  <div align="center">
+    <h1>💻 'Conhecimentos':  </h1>
+  </div>
   <div align="center">
     <img alt="Ruby" src="	https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +30,9 @@
   </div>
 </div>
 <div>
-  <h1>🎇 'GitHub Stats': </h1>
+  <div align="center">
+    <h1>🎇 'GitHub Stats': </h1>
+  </div>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=7Johnsz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="165"/>
   </div>
