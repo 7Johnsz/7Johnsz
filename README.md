@@ -31,7 +31,7 @@
 </div>
 <div>
   <div align="center">
-    <h2>🎇 'GitHub Stats': </h2>
+    <h2>🎇'GitHub Stats': </h2>
   </div>
    <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Johnsz&layout=compact&langs_count=7&theme=github_dark" height="165"/>
