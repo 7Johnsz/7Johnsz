@@ -33,14 +33,3 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </div>
 </div>
-<div>
-  <div align="center">
-    <h2>🧠 'GitHub Stats': </h2>
-  </div>
-   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Johnsz&layout=compact&langs_count=7&theme=github_dark" height="165"/>
-  </div>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=7Johnsz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="165"/>
-  </div>
-</div>
