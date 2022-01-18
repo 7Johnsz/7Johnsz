@@ -1,7 +1,3 @@
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Meu+nome+é+Johnsz!;Bem-vindo+ao+meu+perfil!;&center=true&size=27">
-</div>
-<div>
   <div align="center">
     <h2>😴 'Redes sociais': </h2>
   </div>
