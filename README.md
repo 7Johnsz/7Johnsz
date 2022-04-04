@@ -1,6 +1,6 @@
 ## Wassup, I'm Johnsz - 🐐
 
-<img align="right" alt="COOL" height="320px" width="400px" src="https://cdn.discordapp.com/attachments/913004932511186967/960596376486576148/macaco.gif">
+<img align="right" alt="COOL" height="320px" width="300px" src="https://cdn.discordapp.com/attachments/913004932511186967/960596376486576148/macaco.gif">
 
   * Just curious about **technology and programming** and in love with **music**!
   * I started studying programming in **2021**!
