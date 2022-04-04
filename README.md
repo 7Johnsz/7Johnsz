@@ -28,6 +28,5 @@
   <a href="https://www.php.net/"><img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"></a>
  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-  <br>
-  <p>and others...<p>
+  <p>and others...</p>
 </div>
