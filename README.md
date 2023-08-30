@@ -1,4 +1,4 @@
-## Wassup, I'm Johnsz - 🐐
+## Wassup, I'm MANOJOHN - 🐐
 
 <img align="right" alt="COOL" height="320px" width="300px" src="https://cdn.discordapp.com/attachments/913004932511186967/960596376486576148/macaco.gif">
 
