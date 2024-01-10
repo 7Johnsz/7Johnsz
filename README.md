@@ -12,8 +12,8 @@
 <div>
   <h4 align="left">'Where to find me?</h4>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-b55620233/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/meujohnsz/"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/seujohnsz"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/manojohnsz/"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/manojohnsz"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="mailto:contatojohnsz@protonmail.com"><img align="left" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white"></a>
   <br>
 </div>
