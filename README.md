@@ -5,7 +5,7 @@ i'm just a lover of technology and its capabilities, i started in 2021 and i'm s
 
 **link with me:**
 <br>
-<a href="https://www.instagram.com/manojohnsz">instagram</a>,
+<a href="https://www.instagram.com/odevjohn">instagram</a>,
 <a href="http://odevjohn.vercel.app/">website</a>,
 <a href="https://twitter.com/odevjohn">x/twitter</a>,
 <a href="https://www.linkedin.com/in/odevjohn/">linkedin</a> and
