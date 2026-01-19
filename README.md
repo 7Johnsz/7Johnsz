@@ -9,4 +9,4 @@ i'm just a lover of technology and its capabilities, i started in 2021 and i'm s
 <a href="http://odevjohn.vercel.app/">website</a>,
 <a href="https://twitter.com/odevjohn">x/twitter</a>,
 <a href="https://www.linkedin.com/in/odevjohn/">linkedin</a> and
-<a href="mailto:contato@devjohn.com.br">email</a>
+<a href="mailto:contato.joaovictor99@gmail.com">email</a>
